@@ -1,0 +1,37 @@
+.gicon {
+    background-color: rgba(215, 211, 240, 0.7);
+    border-radius: 50%;
+    padding: 20px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h6{
+    font-size: 15px;
+}
+
+
+#groupIcon{
+    text-align: center;
+}
+
+#preview{
+    background-color:  #081A53;
+    width: 200px;
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+#settings{
+    background-color: #6884F2;
+    width: 200px;
+}
+
+#manual,#fileUpload,#send{
+    width: 130px;
+    font-size: 12px;
+}
